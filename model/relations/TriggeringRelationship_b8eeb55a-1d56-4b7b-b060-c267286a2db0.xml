@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="have expertise"
     id="b8eeb55a-1d56-4b7b-b060-c267286a2db0">
   <source
       xsi:type="archimate:Junction"
