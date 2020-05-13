@@ -6,6 +6,6 @@
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_ebbf07c1-aab7-4cd2-ac62-0155335a4df7.xml#ebbf07c1-aab7-4cd2-ac62-0155335a4df7"/>
   <target
-      xsi:type="archimate:BusinessEvent"
-      href="BusinessEvent_9e459fba-e174-45a4-aa6f-86572a37642b.xml#9e459fba-e174-45a4-aa6f-86572a37642b"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d3d79da8-0095-4c8d-a9e8-fcf2dea43364.xml#d3d79da8-0095-4c8d-a9e8-fcf2dea43364"/>
 </archimate:TriggeringRelationship>
