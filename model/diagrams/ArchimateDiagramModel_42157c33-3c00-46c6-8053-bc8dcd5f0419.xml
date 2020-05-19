@@ -239,17 +239,6 @@
           href="BusinessProcess_b46869db-3c1f-41be-894d-6645bde9f848.xml#b46869db-3c1f-41be-894d-6645bde9f848"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="aaa96f23-6e83-415c-80bf-7d925e862654"
-        textAlignment="1"
-        content="role or better business actor&#xD;&#xA;">
-      <bounds
-          x="936"
-          y="12"
-          width="97"
-          height="49"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="948419e1-49f4-4ee0-964d-9567b9d294fb"
         targetConnections="e23977b5-d771-4e43-b171-58db9a581b5a 3f4dbb95-5b70-4456-be52-e091d1576a55 8ea589c0-bde2-4f8c-a6ba-133cbf0606c0">
