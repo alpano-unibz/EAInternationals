@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Layer"
+    name="BL-Application Layer"
     id="ecb96929-e9b9-4a0c-8255-a82aa86d78de">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
