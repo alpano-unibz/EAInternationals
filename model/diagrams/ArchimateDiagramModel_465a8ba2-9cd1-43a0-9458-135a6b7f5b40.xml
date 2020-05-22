@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Layer"
+    name="BL-Business Layer"
     id="465a8ba2-9cd1-43a0-9458-135a6b7f5b40">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
