@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="product demand"
+    name="service order"
     id="dcee7de0-96b0-4b43-9706-9c9a648c43a5">
   <source
       xsi:type="archimate:Junction"
