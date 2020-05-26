@@ -1148,7 +1148,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f786a65a-8957-4c92-a2d5-2d31665a142d"
-      targetConnections="79175365-f294-47ec-833e-ddc7e1ee2672">
+      targetConnections="79175365-f294-47ec-833e-ddc7e1ee2672 75379bcf-8311-459f-9cca-cb478d64286b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="900e9c17-a26d-4a91-b5df-e3c2f6f47b74"
@@ -1160,7 +1160,7 @@
     </sourceConnections>
     <bounds
         x="1384"
-        y="1459"
+        y="1428"
         width="158"
         height="56"/>
     <archimateElement
@@ -2184,6 +2184,11 @@
         id="d874cb85-30aa-4bea-a9d0-6560250b485d"
         source="14d4c8ac-baaa-4d99-8e35-b7f7486d8cb5"
         target="91080871-3667-470c-a4bb-56d9e196a901">
+      <bendpoints
+          startX="-51"
+          startY="-142"
+          endX="413"
+          endY="21"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_6e298919-f1ac-47bc-b2d2-31f3776cabeb.xml#6e298919-f1ac-47bc-b2d2-31f3776cabeb"/>
@@ -2226,8 +2231,8 @@
       textAlignment="1"
       content="The CRM system cis introduced to have a better management of the customers, therefore it will allow for a better tracking of the acquisitions made by the customers, this allows to have statistic in the system.&#xD;&#xA;Additionally it will be capable to offer the following services:&#xD;&#xA;You can store all your prospects and customers, make calls, send emails, create reports, schedule appointments, add notes, manage your pipeline, and find out who’s opened your latest email—without stepping out of the CRM system.&#xD;&#xA;&#xD;&#xA;Easy reporting &amp; overviews:- A good CRM should let you analyze customer &amp; employee activities and use the information for the benefit of your company. This is why the CRM you choose should have reporting and tracking features.">
     <bounds
-        x="77"
-        y="924"
+        x="2100"
+        y="1542"
         width="229"
         height="361"/>
   </children>
@@ -2241,17 +2246,26 @@
         source="91080871-3667-470c-a4bb-56d9e196a901"
         target="b92ecd48-2007-44cf-8f28-4f5160bcf557">
       <bendpoints
-          startX="-501"
-          startY="-24"
-          endX="74"
-          endY="206"/>
+          startX="-297"
+          startY="-15"
+          endX="2"
+          endY="182"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_cbce9fd9-ab30-45c6-99f5-7e9fbd5b25b0.xml#cbce9fd9-ab30-45c6-99f5-7e9fbd5b25b0"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="75379bcf-8311-459f-9cca-cb478d64286b"
+        source="91080871-3667-470c-a4bb-56d9e196a901"
+        target="f786a65a-8957-4c92-a2d5-2d31665a142d">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_9b79a930-8b75-40a6-b0ae-c901e5d6399d.xml#9b79a930-8b75-40a6-b0ae-c901e5d6399d"/>
+    </sourceConnections>
     <bounds
-        x="1731"
-        y="1557"
+        x="1396"
+        y="1513"
         width="133"
         height="55"/>
     <archimateElement
