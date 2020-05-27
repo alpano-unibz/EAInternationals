@@ -1588,15 +1588,6 @@
       targetConnections="4bfc674b-6914-43bc-a4be-921b80b788ae 7c5ef729-240c-44cb-b204-6c75e27ccc5b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d5b137cd-065f-4e7f-9f62-dd5c36246a36"
-        source="c1bb18f4-8852-4123-9666-b7c167b754a0"
-        target="db61f9af-29d4-4343-bdc3-55a57a2870bb">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_ac985215-b924-47a9-9604-9adb346b44d3.xml#ac985215-b924-47a9-9604-9adb346b44d3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="87546c3d-5a15-4854-a402-1ac157620ec5"
         source="c1bb18f4-8852-4123-9666-b7c167b754a0"
         target="4e800ab0-b3a7-4fde-9fad-eba63be6c9ce">
@@ -1816,8 +1807,8 @@
       targetConnections="0a5be30f-f13e-40b1-9d8b-cec0df8c90b9"
       type="1">
     <bounds
-        x="1433"
-        y="1605"
+        x="2088"
+        y="2131"
         width="120"
         height="55"/>
     <archimateElement
@@ -1882,11 +1873,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="db61f9af-29d4-4343-bdc3-55a57a2870bb"
-      targetConnections="d5b137cd-065f-4e7f-9f62-dd5c36246a36">
+      id="db61f9af-29d4-4343-bdc3-55a57a2870bb">
     <bounds
-        x="1732"
-        y="2299"
+        x="2112"
+        y="2288"
         width="205"
         height="145"/>
     <children
@@ -2043,7 +2033,7 @@
     </sourceConnections>
     <bounds
         x="1875"
-        y="1687"
+        y="1605"
         width="120"
         height="55"/>
     <archimateElement
@@ -2169,7 +2159,7 @@
     </sourceConnections>
     <bounds
         x="1884"
-        y="1920"
+        y="1951"
         width="120"
         height="55"/>
     <archimateElement
@@ -2193,9 +2183,9 @@
       textAlignment="1"
       content="This local file storage will dissapear since the CRM is connected to the DBMS ">
     <bounds
-        x="1968"
+        x="1944"
         y="2310"
-        width="166"
-        height="102"/>
+        width="157"
+        height="79"/>
   </children>
 </archimate:ArchimateDiagramModel>
