@@ -2084,4 +2084,16 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_84cef78d-a841-4594-abbd-338358a9373a.xml#84cef78d-a841-4594-abbd-338358a9373a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5972d9c8-9ef0-42c5-be8f-8b0078b045c5">
+    <bounds
+        x="1496"
+        y="1107"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_727d6ce8-fa03-4bfa-a6a0-76679590928a.xml#727d6ce8-fa03-4bfa-a6a0-76679590928a"/>
+  </children>
 </archimate:ArchimateDiagramModel>
