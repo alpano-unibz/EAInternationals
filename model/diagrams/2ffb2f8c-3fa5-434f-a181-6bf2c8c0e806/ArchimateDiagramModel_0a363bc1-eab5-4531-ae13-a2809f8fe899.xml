@@ -224,10 +224,15 @@
           source="dab24ed8-a276-48e3-9f4f-7e46a6548348"
           target="69c1ee4d-8aca-4d92-896e-4e3e2fc91976">
         <bendpoints
+            startX="-156"
+            startY="-6"
+            endX="-71"
+            endY="-243"/>
+        <bendpoints
             startX="-264"
-            startY="-30"
+            startY="-6"
             endX="-179"
-            endY="-267"/>
+            endY="-243"/>
         <bendpoints
             startX="-264"
             startY="234"
