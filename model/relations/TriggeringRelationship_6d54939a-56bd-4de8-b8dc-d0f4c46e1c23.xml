@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="no expertise"
+    name="no expertise  "
     id="6d54939a-56bd-4de8-b8dc-d0f4c46e1c23">
   <source
       xsi:type="archimate:BusinessProcess"
