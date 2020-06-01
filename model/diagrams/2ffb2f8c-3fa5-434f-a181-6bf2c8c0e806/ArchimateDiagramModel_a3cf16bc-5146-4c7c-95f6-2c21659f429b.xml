@@ -309,15 +309,6 @@
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c04669d2-fc39-4458-a87b-050b1e230183"
-        source="8727429b-4391-4911-b71a-84d223390962"
-        target="32225727-2992-440b-8918-3e0d3358121c">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_a146196a-db21-4752-bd4d-b981fa80618e.xml#a146196a-db21-4752-bd4d-b981fa80618e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="6d729c78-d9f4-484f-8819-852314865be6"
         source="8727429b-4391-4911-b71a-84d223390962"
         target="3208a4a9-514c-4e44-b03c-49cbe7ae4d51">
@@ -345,6 +336,15 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c04669d2-fc39-4458-a87b-050b1e230183"
+        source="8727429b-4391-4911-b71a-84d223390962"
+        target="32225727-2992-440b-8918-3e0d3358121c">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_a146196a-db21-4752-bd4d-b981fa80618e.xml#a146196a-db21-4752-bd4d-b981fa80618e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="f200437a-e028-44b9-8563-b88edefff913"
         source="8727429b-4391-4911-b71a-84d223390962"
         target="aafd9efe-5c46-4150-9ee0-ec718951520d">
@@ -353,7 +353,7 @@
           href="ServingRelationship_23b83478-4d72-4980-9803-e90a58241b61.xml#23b83478-4d72-4980-9803-e90a58241b61"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="73"
         y="624"
         width="1271"
         height="140"/>
@@ -441,7 +441,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bcfabcf0-9e3d-4630-b586-9f7dd72f8781"
-        targetConnections="13b23d1a-aebe-4453-a0f8-3f1084f2aae5"
         type="1">
       <bounds
           x="588"
@@ -462,30 +461,21 @@
       targetConnections="9457c631-6a9a-4f26-bc52-d8ab53dcf11c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c8d66f54-12c0-491b-9fbb-d6742544b6a8"
-        source="00ce3632-8e65-4fda-bd9e-388b17614c2d"
-        target="6ec70a71-9771-469b-9624-e3a888830218">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_263992bc-a25e-41c1-a890-d6ea0fb0dc9b.xml#263992bc-a25e-41c1-a890-d6ea0fb0dc9b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="13b23d1a-aebe-4453-a0f8-3f1084f2aae5"
-        source="00ce3632-8e65-4fda-bd9e-388b17614c2d"
-        target="bcfabcf0-9e3d-4630-b586-9f7dd72f8781">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_1c8745be-80ed-4576-bfa6-1691c8e24c66.xml#1c8745be-80ed-4576-bfa6-1691c8e24c66"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="8604df41-3c9d-4143-9afd-076b908ece1f"
         source="00ce3632-8e65-4fda-bd9e-388b17614c2d"
         target="839390c0-fb31-4024-9fce-4c16fb870a8e">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_901badde-503e-4b6a-a1ec-e0d20c63b87f.xml#901badde-503e-4b6a-a1ec-e0d20c63b87f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c8d66f54-12c0-491b-9fbb-d6742544b6a8"
+        source="00ce3632-8e65-4fda-bd9e-388b17614c2d"
+        target="6ec70a71-9771-469b-9624-e3a888830218">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_263992bc-a25e-41c1-a890-d6ea0fb0dc9b.xml#263992bc-a25e-41c1-a890-d6ea0fb0dc9b"/>
     </sourceConnections>
     <bounds
         x="180"

@@ -695,7 +695,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5d956e94-d171-4ffa-834a-f1b815acecc7"
-      targetConnections="bc9a78bd-2ecc-44fe-a220-fdda33aa38d7 9b8b13c8-43f3-4dbc-a4d7-b1d53d3d6a6a c91db1cd-040e-48ef-864d-6fc9f202ee37 c96e7874-3eb0-4568-97a2-c7f1783004ee">
+      targetConnections="bc9a78bd-2ecc-44fe-a220-fdda33aa38d7 9b8b13c8-43f3-4dbc-a4d7-b1d53d3d6a6a c91db1cd-040e-48ef-864d-6fc9f202ee37">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="ba28fa66-e58f-4e79-8960-f1a9123bbcfe"
@@ -1009,15 +1009,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4e800ab0-b3a7-4fde-9fad-eba63be6c9ce"
       targetConnections="87546c3d-5a15-4854-a402-1ac157620ec5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b35b8e71-9d9c-4250-bade-774b4dac7f74"
-        source="4e800ab0-b3a7-4fde-9fad-eba63be6c9ce"
-        target="b9f0db20-e19a-498a-8760-df72fd6bd7d9">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_1c8745be-80ed-4576-bfa6-1691c8e24c66.xml#1c8745be-80ed-4576-bfa6-1691c8e24c66"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="44a0b016-1d26-4bb2-a934-b420a2e0cbaa"
@@ -1834,22 +1825,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b9f0db20-e19a-498a-8760-df72fd6bd7d9"
-      targetConnections="b35b8e71-9d9c-4250-bade-774b4dac7f74"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c96e7874-3eb0-4568-97a2-c7f1783004ee"
-        source="b9f0db20-e19a-498a-8760-df72fd6bd7d9"
-        target="5d956e94-d171-4ffa-834a-f1b815acecc7">
-      <bendpoints
-          startX="-360"
-          startY="-99"
-          endX="240"
-          endY="177"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_d6053a47-2f00-4c58-9847-1299a86d918d.xml#d6053a47-2f00-4c58-9847-1299a86d918d"/>
-    </sourceConnections>
     <bounds
         x="1288"
         y="1603"

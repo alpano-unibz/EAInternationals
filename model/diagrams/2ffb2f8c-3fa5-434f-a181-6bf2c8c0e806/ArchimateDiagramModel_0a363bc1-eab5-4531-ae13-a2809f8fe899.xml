@@ -772,7 +772,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="19be4b34-3f7e-4b4d-86a1-caec089be199"
-      targetConnections="b6f2ae8b-a361-488d-afb8-aff1c367b8a5 3b46406b-cf67-434a-a1f9-08afeb7e7a81 ddc808bf-5c37-41a2-8ff6-3ecf03d91d52 d070afea-5013-4a65-88c0-5892adcfa2ed">
+      targetConnections="b6f2ae8b-a361-488d-afb8-aff1c367b8a5 3b46406b-cf67-434a-a1f9-08afeb7e7a81 d070afea-5013-4a65-88c0-5892adcfa2ed">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c27fee80-d943-45fe-b70c-5535c3422930"
@@ -1077,15 +1077,6 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_25b03436-021f-46d3-a278-df120ad2e8bd.xml#25b03436-021f-46d3-a278-df120ad2e8bd"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="92c958cb-f1bb-4950-bead-4139959817dc"
-        source="f79bc13c-0cb9-4475-9aea-f01c7aaab1bb"
-        target="6aae6f50-4af1-4631-b627-f38ee50d6e2f">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_1c8745be-80ed-4576-bfa6-1691c8e24c66.xml#1c8745be-80ed-4576-bfa6-1691c8e24c66"/>
     </sourceConnections>
     <bounds
         x="1044"
@@ -1912,22 +1903,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6aae6f50-4af1-4631-b627-f38ee50d6e2f"
-      targetConnections="92c958cb-f1bb-4950-bead-4139959817dc"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ddc808bf-5c37-41a2-8ff6-3ecf03d91d52"
-        source="6aae6f50-4af1-4631-b627-f38ee50d6e2f"
-        target="19be4b34-3f7e-4b4d-86a1-caec089be199">
-      <bendpoints
-          startX="-360"
-          startY="-99"
-          endX="240"
-          endY="177"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_d6053a47-2f00-4c58-9847-1299a86d918d.xml#d6053a47-2f00-4c58-9847-1299a86d918d"/>
-    </sourceConnections>
     <bounds
         x="948"
         y="1296"
