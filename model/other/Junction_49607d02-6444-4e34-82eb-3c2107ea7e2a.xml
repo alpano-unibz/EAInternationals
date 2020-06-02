@@ -1,4 +1,5 @@
 <archimate:Junction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Junction"
-    id="49607d02-6444-4e34-82eb-3c2107ea7e2a"/>
+    id="49607d02-6444-4e34-82eb-3c2107ea7e2a"
+    type="or"/>
