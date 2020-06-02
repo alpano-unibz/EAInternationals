@@ -263,17 +263,6 @@
           href="BusinessProcess_16797ed6-fc29-434a-82ba-86e9584ad469.xml#16797ed6-fc29-434a-82ba-86e9584ad469"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="a1bb3ead-0174-4d86-b61d-790b08069300"
-        textAlignment="1"
-        content="Order handling differs depending on whether customer requests a product or service">
-      <bounds
-          x="567"
-          y="12"
-          width="185"
-          height="61"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="457e340e-08fa-4e6d-86c4-a767e667e842"
         targetConnections="d5873959-b461-4441-9e01-07edbe8c9c37">
@@ -706,7 +695,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="103f5f07-de8b-4b96-b99c-a85f6a17ae07"
-      targetConnections="76ff4925-a87a-44a2-bf04-f3be0aeb5bf8 5760fce5-5956-4f4b-8db8-8c018ea25074 f3d70787-d948-4e1d-ae32-e01d09f61c57">
+      targetConnections="76ff4925-a87a-44a2-bf04-f3be0aeb5bf8 f3d70787-d948-4e1d-ae32-e01d09f61c57">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1b8cccd3-65db-43ca-ae39-89499c96616e"
@@ -728,7 +717,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2898b27d-dd27-46a1-8992-7512573d8420"
-      targetConnections="f11c1b9e-0994-4a1f-acb4-7974895a05a1 f1b3a797-b50f-46fd-bad5-b3a8ffa9afab 0f623582-e62f-4f7e-a8b8-01bea9bd9be7">
+      targetConnections="f11c1b9e-0994-4a1f-acb4-7974895a05a1 f1b3a797-b50f-46fd-bad5-b3a8ffa9afab">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c3749d99-5c96-4373-92b7-3924306c860f"
@@ -1194,15 +1183,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e4c9c56c-b11f-4233-a841-7056ca67747d">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="85ed6ff6-4e71-4ea1-93fe-18da38a88897"
-          source="e4c9c56c-b11f-4233-a841-7056ca67747d"
-          target="ec2a4f58-94d1-474a-869d-cd82f9b00fa3">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_b18e4e41-c014-49fd-aad1-e257c10e2bac.xml#b18e4e41-c014-49fd-aad1-e257c10e2bac"/>
-      </sourceConnections>
       <bounds
           x="168"
           y="36"
@@ -1960,62 +1940,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b92f2afd-df6a-4385-b4be-75840f03835b"
-      targetConnections="fece3729-02df-487b-b809-8d89d25d6fab"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5760fce5-5956-4f4b-8db8-8c018ea25074"
-        source="b92f2afd-df6a-4385-b4be-75840f03835b"
-        target="103f5f07-de8b-4b96-b99c-a85f6a17ae07">
-      <bendpoints
-          startX="-139"
-          startY="-149"
-          endX="126"
-          endY="129"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_58f748d6-a099-46b9-999a-c9842a648ad7.xml#58f748d6-a099-46b9-999a-c9842a648ad7"/>
-    </sourceConnections>
-    <bounds
-        x="1087"
-        y="1298"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_e3183634-df9f-4c8b-bd82-2c0e54b74d9e.xml#e3183634-df9f-4c8b-bd82-2c0e54b74d9e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="ec2a4f58-94d1-474a-869d-cd82f9b00fa3"
-      targetConnections="85ed6ff6-4e71-4ea1-93fe-18da38a88897"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0f623582-e62f-4f7e-a8b8-01bea9bd9be7"
-        source="ec2a4f58-94d1-474a-869d-cd82f9b00fa3"
-        target="2898b27d-dd27-46a1-8992-7512573d8420">
-      <bendpoints
-          startX="55"
-          startY="-257"
-          endX="150"
-          endY="18"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_e06e1b51-cd20-4e80-86ae-16019fe226a9.xml#e06e1b51-cd20-4e80-86ae-16019fe226a9"/>
-    </sourceConnections>
-    <bounds
-        x="1226"
-        y="1298"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_111b26d1-ac11-4cb5-bfb6-28bc7460086f.xml#111b26d1-ac11-4cb5-bfb6-28bc7460086f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="d65f7b8d-96ca-4bc4-bf55-c9d159a2c47e"
       targetConnections="52073bc3-8e2a-4590-8ac0-f667f61696cc 4676b599-46c0-4957-b4a6-b78967aa045c">
     <bounds
@@ -2026,15 +1950,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d4e57726-c5f1-434d-a764-e99ac2ff0bd5">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="fece3729-02df-487b-b809-8d89d25d6fab"
-          source="d4e57726-c5f1-434d-a764-e99ac2ff0bd5"
-          target="b92f2afd-df6a-4385-b4be-75840f03835b">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_65efe32e-939e-4c1e-bdc2-bc99bafee958.xml#65efe32e-939e-4c1e-bdc2-bc99bafee958"/>
-      </sourceConnections>
       <bounds
           x="48"
           y="60"
@@ -2047,28 +1962,6 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_118fb884-8dc1-4978-9d8e-1be738219522.xml#118fb884-8dc1-4978-9d8e-1be738219522"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="1d66c266-2dd4-4bf1-9b8c-080012e6b050"
-      textAlignment="1"
-      content="Due to a series of legacy systems, the financial management app is standalone">
-    <bounds
-        x="1128"
-        y="936"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="7057aa5c-5d3f-44ae-86a9-b5a71c8e3c0b"
-      textAlignment="1"
-      content="Due to lack of investment the customer data app is just an Excel file">
-    <bounds
-        x="876"
-        y="936"
-        width="169"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -2111,18 +2004,6 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_84cef78d-a841-4594-abbd-338358a9373a.xml#84cef78d-a841-4594-abbd-338358a9373a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5972d9c8-9ef0-42c5-be8f-8b0078b045c5">
-    <bounds
-        x="1496"
-        y="1107"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_727d6ce8-fa03-4bfa-a6a0-76679590928a.xml#727d6ce8-fa03-4bfa-a6a0-76679590928a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
