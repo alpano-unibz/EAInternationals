@@ -1,18 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BL-Technology Layer"
-    id="bb041eb5-7375-4037-b829-f57a60308efa">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5ff294d6-ac60-48ab-a4b6-6de51bf14c28">
-    <bounds
-        x="247"
-        y="109"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Device"
-        href="Device_c3a7f9bd-c015-4c3b-a9b0-c92b54bf3b20.xml#c3a7f9bd-c015-4c3b-a9b0-c92b54bf3b20"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="bb041eb5-7375-4037-b829-f57a60308efa"/>
