@@ -315,6 +315,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8727429b-4391-4911-b71a-84d223390962"
+      targetConnections="d1aaf0c5-754a-4971-b509-4beba90373aa"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -391,7 +392,7 @@
     <bounds
         x="73"
         y="624"
-        width="1212"
+        width="1152"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -422,7 +423,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3036e3fc-b47f-4b79-830e-10d748d494d1"
-        targetConnections="86f3964f-32b0-4ee0-8817-7b3bae266735 fc705529-d49c-4931-83c1-b8c2f0a70c84">
+        targetConnections="fc705529-d49c-4931-83c1-b8c2f0a70c84">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="cea46911-f7ae-4913-bca5-915730824639"
@@ -564,7 +565,7 @@
         id="00ce3632-8e65-4fda-bd9e-388b17614c2d"
         targetConnections="56e64323-7c89-45b8-906a-db2a8b2b58af">
       <bounds
-          x="24"
+          x="12"
           y="48"
           width="313"
           height="169"/>
@@ -601,8 +602,8 @@
         id="a59abcd9-6b3a-4a81-af40-5d320e776d34"
         targetConnections="d636c972-02f7-4492-9d54-e9af0354f2c6">
       <bounds
-          x="24"
-          y="240"
+          x="109"
+          y="252"
           width="120"
           height="55"/>
       <archimateElement
@@ -619,12 +620,12 @@
       targetConnections="0d824c88-aa8b-4bf7-af2b-aeb8e184abbd">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="86f3964f-32b0-4ee0-8817-7b3bae266735"
+        id="d1aaf0c5-754a-4971-b509-4beba90373aa"
         source="95f68e0c-0ac3-4a05-9f5a-7b5de38fab93"
-        target="3036e3fc-b47f-4b79-830e-10d748d494d1">
+        target="8727429b-4391-4911-b71a-84d223390962">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_50170838-eab4-4c0d-ada1-830ecb5e14bb.xml#50170838-eab4-4c0d-ada1-830ecb5e14bb"/>
+          href="ServingRelationship_e758627d-b54e-4d22-b650-a06dc2beab7d.xml#e758627d-b54e-4d22-b650-a06dc2beab7d"/>
     </sourceConnections>
     <bounds
         x="288"
