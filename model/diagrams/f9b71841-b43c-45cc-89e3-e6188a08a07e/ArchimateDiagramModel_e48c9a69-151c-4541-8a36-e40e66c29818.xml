@@ -1083,6 +1083,16 @@
         id="b35b8e71-9d9c-4250-bade-774b4dac7f74"
         source="4e800ab0-b3a7-4fde-9fad-eba63be6c9ce"
         target="b9f0db20-e19a-498a-8760-df72fd6bd7d9">
+      <bendpoints
+          startX="8"
+          startY="-631"
+          endX="200"
+          endY="122"/>
+      <bendpoints
+          startX="-184"
+          startY="-631"
+          endX="8"
+          endY="122"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_1c8745be-80ed-4576-bfa6-1691c8e24c66.xml#1c8745be-80ed-4576-bfa6-1691c8e24c66"/>
@@ -1930,7 +1940,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="3719d050-3c53-4354-80e3-a505d19d1365"
       textAlignment="1"
-      content="The Postgresql database contains records of orders and all ERP data">
+      content="The Postgresql database contains records of orders, all ERP data and CRM data">
     <bounds
         x="1182"
         y="2332"
