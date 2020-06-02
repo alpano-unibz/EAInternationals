@@ -1904,10 +1904,15 @@
         source="b9f0db20-e19a-498a-8760-df72fd6bd7d9"
         target="5d956e94-d171-4ffa-834a-f1b815acecc7">
       <bendpoints
-          startX="-360"
-          startY="-99"
-          endX="240"
-          endY="177"/>
+          startX="-40"
+          startY="-94"
+          endX="560"
+          endY="182"/>
+      <bendpoints
+          startX="-376"
+          startY="-94"
+          endX="224"
+          endY="182"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_d6053a47-2f00-4c58-9847-1299a86d918d.xml#d6053a47-2f00-4c58-9847-1299a86d918d"/>
