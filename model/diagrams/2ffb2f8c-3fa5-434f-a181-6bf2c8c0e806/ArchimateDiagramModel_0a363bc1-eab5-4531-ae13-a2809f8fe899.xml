@@ -572,7 +572,7 @@
       id="103f5f07-de8b-4b96-b99c-a85f6a17ae07"
       targetConnections="66400035-c924-4da7-b798-bb4ec593ee68">
     <bounds
-        x="792"
+        x="804"
         y="1020"
         width="181"
         height="55"/>
@@ -1079,6 +1079,21 @@
         id="a195f863-e3fa-4da6-8403-fe446b3e4562"
         source="0d62b523-2ba9-4351-b060-c52b9c285a0f"
         target="57b0b7fd-1ac7-4a9a-bbaa-9ec1130313ee">
+      <bendpoints
+          startX="-65"
+          startY="-239"
+          endX="-60"
+          endY="246"/>
+      <bendpoints
+          startX="-65"
+          startY="-383"
+          endX="-60"
+          endY="102"/>
+      <bendpoints
+          startX="-17"
+          startY="-383"
+          endX="-12"
+          endY="102"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_eda876de-651d-4057-9f87-f53400a556df.xml#eda876de-651d-4057-9f87-f53400a556df"/>
