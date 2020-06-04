@@ -4,8 +4,8 @@
     name="has expertise"
     id="9ec84bf4-81c3-4329-b209-53733ac302bb">
   <source
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_e631d96f-1cdb-45b2-85bc-fb0590304830.xml#e631d96f-1cdb-45b2-85bc-fb0590304830"/>
+      xsi:type="archimate:Junction"
+      href="Junction_04116ee7-0ca9-4671-830a-1e15e7c80689.xml#04116ee7-0ca9-4671-830a-1e15e7c80689"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_d7b863f4-b17b-45ae-bfaf-ce60da40d61c.xml#d7b863f4-b17b-45ae-bfaf-ce60da40d61c"/>
