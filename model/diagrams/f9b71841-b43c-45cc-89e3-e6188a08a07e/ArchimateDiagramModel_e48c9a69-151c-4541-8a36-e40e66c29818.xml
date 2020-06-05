@@ -761,7 +761,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="862f7621-1108-4be4-8714-c5e4af92aede"
-      targetConnections="ecfe5cb3-de85-49de-a54d-9bc0d9b6e542 066f6833-fee0-4a19-972f-4a8e24243984">
+      targetConnections="ecfe5cb3-de85-49de-a54d-9bc0d9b6e542">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="16f1bf0e-1442-4afc-bbde-60aeb11e2259"
@@ -779,15 +779,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_201da013-ceea-4b44-9f5a-83c91ec06a73.xml#201da013-ceea-4b44-9f5a-83c91ec06a73"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="72367681-cc61-4654-8391-a396051f79f1"
-        source="862f7621-1108-4be4-8714-c5e4af92aede"
-        target="b9df43ee-688c-43d3-a746-3813d43c2bef">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_663c79d0-f468-46c1-8c6c-f5de34c4ef53.xml#663c79d0-f468-46c1-8c6c-f5de34c4ef53"/>
     </sourceConnections>
     <bounds
         x="275"
@@ -1930,22 +1921,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b9df43ee-688c-43d3-a746-3813d43c2bef"
-      targetConnections="72367681-cc61-4654-8391-a396051f79f1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="066f6833-fee0-4a19-972f-4a8e24243984"
-        source="b9df43ee-688c-43d3-a746-3813d43c2bef"
-        target="862f7621-1108-4be4-8714-c5e4af92aede">
-      <bendpoints
-          startX="-24"
-          startY="-51"
-          endX="98"
-          endY="79"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_55efd0fa-d339-4880-a2ce-b463763cb2a6.xml#55efd0fa-d339-4880-a2ce-b463763cb2a6"/>
-    </sourceConnections>
+      id="b9df43ee-688c-43d3-a746-3813d43c2bef">
     <bounds
         x="576"
         y="1176"

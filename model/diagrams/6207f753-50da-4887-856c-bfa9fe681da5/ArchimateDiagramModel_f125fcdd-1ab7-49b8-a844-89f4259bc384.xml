@@ -1,0 +1,34 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk1"
+    id="f125fcdd-1ab7-49b8-a844-89f4259bc384">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0d141742-9b4c-4c7d-80ce-40e3ddddd6a1"
+      fillColor="#ff8080"
+      type="1">
+    <bounds
+        x="72"
+        y="120"
+        width="145"
+        height="68"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_ccaf6626-5593-430e-ac04-b7899af8d0bc.xml#ccaf6626-5593-430e-ac04-b7899af8d0bc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f59ecfc6-85e4-4f1f-81c0-ca499c0c81b1"
+      fillColor="#ff8080"
+      type="1">
+    <bounds
+        x="348"
+        y="120"
+        width="145"
+        height="68"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_d4ca8cf4-3895-4e78-b8f8-28cb941c0dc1.xml#d4ca8cf4-3895-4e78-b8f8-28cb941c0dc1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
