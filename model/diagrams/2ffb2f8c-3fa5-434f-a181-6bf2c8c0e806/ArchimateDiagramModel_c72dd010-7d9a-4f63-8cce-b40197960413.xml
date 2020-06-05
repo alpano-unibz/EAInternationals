@@ -35,7 +35,7 @@
             href="TriggeringRelationship_445f0d8b-c576-43f8-864d-09b7a0945637.xml#445f0d8b-c576-43f8-864d-09b7a0945637"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="54"
           width="120"
           height="55"/>
@@ -57,7 +57,7 @@
             href="TriggeringRelationship_978efbea-61d3-4b62-b6e1-ce320c318a37.xml#978efbea-61d3-4b62-b6e1-ce320c318a37"/>
       </sourceConnections>
       <bounds
-          x="192"
+          x="180"
           y="54"
           width="120"
           height="55"/>
@@ -134,6 +134,11 @@
         id="28029458-6e4b-44b3-861b-137a3c0ccb4e"
         source="4b2fb360-7411-47ad-9c42-03daf6182380"
         target="fee85f0a-af23-4236-9e9e-a19ad4cb12e6">
+      <bendpoints
+          startX="53"
+          startY="-30"
+          endX="-96"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_7e607af6-3e35-4314-90f2-dad1a3abfbaa.xml#7e607af6-3e35-4314-90f2-dad1a3abfbaa"/>
@@ -143,6 +148,11 @@
         id="4cfb25e7-6ac8-4b58-9ff6-f8f26202480d"
         source="4b2fb360-7411-47ad-9c42-03daf6182380"
         target="5087ba59-d387-456e-96f0-61e2f37cf5c9">
+      <bendpoints
+          startX="53"
+          startY="42"
+          endX="-96"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_96fb1950-5f91-4ccf-a179-a27a4605e5a4.xml#96fb1950-5f91-4ccf-a179-a27a4605e5a4"/>
@@ -169,7 +179,7 @@
           href="CompositionRelationship_f5f57248-7723-4d95-b436-bb532a7e5d28.xml#f5f57248-7723-4d95-b436-bb532a7e5d28"/>
     </sourceConnections>
     <bounds
-        x="156"
+        x="108"
         y="348"
         width="133"
         height="55"/>
@@ -191,7 +201,7 @@
           href="ServingRelationship_7cb8c1a6-836b-4fe4-943b-63c3ce07a1cd.xml#7cb8c1a6-836b-4fe4-943b-63c3ce07a1cd"/>
     </sourceConnections>
     <bounds
-        x="144"
+        x="96"
         y="252"
         width="158"
         height="56"/>
