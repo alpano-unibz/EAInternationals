@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Usage - Outbound Sales"
+    name="Target Application Usage - Outbound Sales"
     id="a8fba415-29e5-4857-b188-38d820f7d4e0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -103,8 +103,8 @@
       id="5d720265-cfac-4801-88eb-799164c8a1b0"
       targetConnections="c1d9cd16-ea2b-4f0b-86e6-b7f9da4dbbe0">
     <bounds
-        x="240"
-        y="528"
+        x="576"
+        y="397"
         width="120"
         height="55"/>
     <archimateElement

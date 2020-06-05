@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Usage - Outbound Sales"
+    name="Baseline Application Usage - Outbound Sales"
     id="c72dd010-7d9a-4f63-8cce-b40197960413">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -178,6 +178,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_f5f57248-7723-4d95-b436-bb532a7e5d28.xml#f5f57248-7723-4d95-b436-bb532a7e5d28"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="77825b58-6542-4f40-938b-23a3f5bafd97"
+        source="56f63541-3b6d-4399-a6c6-4607b546c1f3"
+        target="b41992dd-8bda-4d46-bed0-47d5185c42ce">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_eb106392-692d-4d71-a0fa-93a88dddaecf.xml#eb106392-692d-4d71-a0fa-93a88dddaecf"/>
+    </sourceConnections>
     <bounds
         x="108"
         y="348"
@@ -234,5 +243,18 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_a6b30533-9453-489d-8866-a2cb72864a6c.xml#a6b30533-9453-489d-8866-a2cb72864a6c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b41992dd-8bda-4d46-bed0-47d5185c42ce"
+      targetConnections="77825b58-6542-4f40-938b-23a3f5bafd97">
+    <bounds
+        x="348"
+        y="348"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_780ce3c6-3142-40aa-9463-6237efe07d6e.xml#780ce3c6-3142-40aa-9463-6237efe07d6e"/>
   </children>
 </archimate:ArchimateDiagramModel>
