@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Target Application Usage - Inbound Sales"
+    name="Extra-Target Application Usage - Inbound Sales"
     id="2c560a0b-3251-4deb-a3eb-6948e172d192">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
