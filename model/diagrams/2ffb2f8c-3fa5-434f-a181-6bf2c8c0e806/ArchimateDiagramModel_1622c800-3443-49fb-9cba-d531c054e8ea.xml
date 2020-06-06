@@ -1,11 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Extra-Organizational Structure"
+    name="4. [Extra] Organizational Structure"
     id="1622c800-3443-49fb-9cba-d531c054e8ea">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8cf67e6c-fb88-4083-bda4-54302c3eaf56">
+      id="8cf67e6c-fb88-4083-bda4-54302c3eaf56"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="517f1139-bbce-4fbc-9b9e-16dc626fa04f"
@@ -63,7 +64,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="004319fa-e9db-48bb-a70e-0f2ce5ab7c27"
-      targetConnections="5a04c7a3-4829-43d8-9987-8deee6f2f305 71b05ab4-d4fa-474c-b9c5-348b2831eee6">
+      targetConnections="5a04c7a3-4829-43d8-9987-8deee6f2f305 71b05ab4-d4fa-474c-b9c5-348b2831eee6"
+      textPosition="1">
     <bounds
         x="240"
         y="228"
@@ -76,7 +78,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="007d899b-8be1-494b-b1fe-8e53c0edc081"
-      targetConnections="517f1139-bbce-4fbc-9b9e-16dc626fa04f">
+      targetConnections="517f1139-bbce-4fbc-9b9e-16dc626fa04f"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f9910be2-98ef-4031-ba33-9a459e9ede0f"
@@ -116,7 +119,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b23a78a1-b059-4248-9636-9865ac8d2052"
-      targetConnections="f9910be2-98ef-4031-ba33-9a459e9ede0f">
+      targetConnections="f9910be2-98ef-4031-ba33-9a459e9ede0f"
+      textPosition="1">
     <bounds
         x="403"
         y="444"
@@ -129,7 +133,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ba6336a7-eaa1-46cf-89e5-7abbd7dc89ad"
-      targetConnections="fd0e6cc5-23d0-4b37-9453-3686b408271a">
+      targetConnections="fd0e6cc5-23d0-4b37-9453-3686b408271a"
+      textPosition="1">
     <bounds
         x="595"
         y="444"
@@ -142,7 +147,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="14915898-6c82-44a1-ac85-4d6f58c09b22"
-      targetConnections="522f94f1-ef54-41d8-a7cf-5c1e12d925a5">
+      targetConnections="522f94f1-ef54-41d8-a7cf-5c1e12d925a5"
+      textPosition="1">
     <bounds
         x="240"
         y="444"
@@ -185,7 +191,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bca10573-0c6a-425e-b7dd-1a60a4d6da25"
-      targetConnections="f694ffb1-c804-436a-9eb8-81b97c7d4e54">
+      targetConnections="f694ffb1-c804-436a-9eb8-81b97c7d4e54"
+      textPosition="1">
     <bounds
         x="787"
         y="444"
@@ -198,7 +205,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="abb756ee-657f-49c1-83ab-9a1a138ca429"
-      targetConnections="0cf65764-76e9-42ba-baa0-4c260bba0bdd">
+      targetConnections="0cf65764-76e9-42ba-baa0-4c260bba0bdd"
+      textPosition="1">
     <bounds
         x="276"
         y="36"
@@ -211,7 +219,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="488d0702-1f8c-4a97-a094-d8fc1d5c0c26"
-      targetConnections="aa7d323e-6c4b-4f03-b8c9-d13778d96263 884a4084-9814-4623-bc8c-03f6fe25336f">
+      targetConnections="aa7d323e-6c4b-4f03-b8c9-d13778d96263 884a4084-9814-4623-bc8c-03f6fe25336f"
+      textPosition="1">
     <bounds
         x="-17"
         y="228"
@@ -224,7 +233,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e5ae41f8-cd20-4c43-bee3-e3104ed56293"
-      targetConnections="9c20ba0a-58b5-4781-b3f2-eacaf3966975 62e0f009-447e-4f94-a347-70dfecfe4d50">
+      targetConnections="9c20ba0a-58b5-4781-b3f2-eacaf3966975 62e0f009-447e-4f94-a347-70dfecfe4d50"
+      textPosition="1">
     <bounds
         x="114"
         y="228"
@@ -276,7 +286,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f6698263-4406-4bd5-aad3-c3bcbe5165dd"
-      targetConnections="407fb4fc-6bd4-4f55-90a6-680013d7398a">
+      targetConnections="407fb4fc-6bd4-4f55-90a6-680013d7398a"
+      textPosition="1">
     <bounds
         x="43"
         y="444"

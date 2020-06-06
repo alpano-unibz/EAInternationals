@@ -1,13 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Risk2"
+    name="1. Customer churn risk"
     id="91da379d-1fed-45d9-b76f-a9f2ede74dca">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d6a7f62e-35ca-4c65-8173-2febe1c93f60"
       targetConnections="5cdaabb0-a230-4430-b326-546a735c9380"
       fillColor="#ff8080"
+      textPosition="1"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -32,6 +33,7 @@
       id="d7271fe8-49ac-4d22-8fd0-e49b6e83921a"
       targetConnections="a0995ed1-a2e9-4e1a-a7ce-1986334c3624"
       fillColor="#ff8080"
+      textPosition="1"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -55,7 +57,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="732be989-5eb5-4a33-93b9-23be6ec2e8c8"
       targetConnections="517bee5b-5202-4137-9223-6dd566fa414c d0c30a11-4d79-4675-8412-63767f2d2ffd"
-      fillColor="#ff8080">
+      fillColor="#ff8080"
+      textPosition="1">
     <bounds
         x="288"
         y="144"
@@ -69,7 +72,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a76a8894-5daf-4f0c-aa0f-338d15892ac6"
       targetConnections="74ec4a1b-cb02-4db7-b5a9-4d7d2db90c8f"
-      fillColor="#ff8080">
+      fillColor="#ff8080"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5cdaabb0-a230-4430-b326-546a735c9380"
@@ -90,7 +94,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="141babc2-56fb-4ab1-8e64-e91ace79c8aa">
+      id="141babc2-56fb-4ab1-8e64-e91ace79c8aa"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="74ec4a1b-cb02-4db7-b5a9-4d7d2db90c8f"
@@ -112,7 +117,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="835e2a8d-d946-4f3f-9f20-2b4e043e60a1"
-      targetConnections="4f66f4ca-2a8c-4844-9f50-ea9a5452351e">
+      targetConnections="4f66f4ca-2a8c-4844-9f50-ea9a5452351e"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d0c30a11-4d79-4675-8412-63767f2d2ffd"
@@ -134,7 +140,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a8fcb48e-5d6a-4464-9e7f-f202adb35512"
-      fillColor="#80ff80">
+      fillColor="#80ff80"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4f66f4ca-2a8c-4844-9f50-ea9a5452351e"
