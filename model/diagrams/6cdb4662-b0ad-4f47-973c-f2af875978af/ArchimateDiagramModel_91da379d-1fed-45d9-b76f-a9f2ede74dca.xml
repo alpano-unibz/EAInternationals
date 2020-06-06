@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Customer churn risk"
+    name="2. Customer churn risk"
     id="91da379d-1fed-45d9-b76f-a9f2ede74dca">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -62,7 +62,7 @@
     <bounds
         x="288"
         y="144"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -86,7 +86,7 @@
     <bounds
         x="48"
         y="156"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -106,7 +106,7 @@
           href="AssociationRelationship_e5a70270-a8d9-4f55-a8f7-ee89a1eae614.xml#e5a70270-a8d9-4f55-a8f7-ee89a1eae614"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="61"
         y="276"
         width="120"
         height="55"/>
@@ -130,8 +130,8 @@
     </sourceConnections>
     <bounds
         x="288"
-        y="240"
-        width="120"
+        y="257"
+        width="145"
         height="74"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -152,9 +152,9 @@
           href="RealizationRelationship_505a21e6-4318-4ba5-9562-e44358e184da.xml#505a21e6-4318-4ba5-9562-e44358e184da"/>
     </sourceConnections>
     <bounds
-        x="285"
-        y="360"
-        width="126"
+        x="288"
+        y="384"
+        width="145"
         height="61"/>
     <archimateElement
         xsi:type="archimate:Requirement"
