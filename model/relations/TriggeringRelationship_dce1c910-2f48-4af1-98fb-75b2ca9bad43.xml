@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has expertise"
+    id="dce1c910-2f48-4af1-98fb-75b2ca9bad43">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b494bb20-c4f7-42c8-9420-28a6a90e5738.xml#b494bb20-c4f7-42c8-9420-28a6a90e5738"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_9e0db764-0b1e-4171-8a63-326be6512ba2.xml#9e0db764-0b1e-4171-8a63-326be6512ba2"/>
+</archimate:TriggeringRelationship>
